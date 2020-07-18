@@ -30,7 +30,7 @@
     "gutil": "^1.6.4",
     "imports-loader": "^0.7.1",
     "jquery": "^3.2.1",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.0",
     "postcss-critical-split": "^2.5.0",
     "react": "^16.10.2",
